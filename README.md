@@ -32,4 +32,12 @@ In short, a Java-based multithreaded chat application illustrates how to develop
 
 In summary, the multithreaded chat program in Java illustrates how threads and sockets may be used together to create multi-user, real-time communication applications. It is a good practice-based approach to learning about client-server architecture and serves as a precursor to creating more sophisticated networked programs.
 
+OUTPUT 1 :
+
+<img width="1381" height="333" alt="Image" src="https://github.com/user-attachments/assets/c0d722c5-e518-4edb-9dae-9af75640654b" />
+
+
+
+
+
 
