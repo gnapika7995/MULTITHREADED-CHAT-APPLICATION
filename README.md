@@ -12,9 +12,9 @@
 
 * MENTOR*: NEELA SANTOSH
 
-* HERE IS A SMALL DESCRIPTION ON THE MULTITHREADED CHAT APPLICATION
+HERE IS A BRIEF DESCRIPTION ABOUT THE MULTITHREADED CHAT APPLICATION :
 
-* A Multithreaded Chat Application in Java is a computer program based on the network that enables several clients to communicate with one another in real time through Java sockets and multithreading. It is usually composed of a server that establishes and handles connections and several clients that they connect to the server to receive and send messages. The server executes on a single machine, and clients may be executed from the same or different machines in a local network or even across the internet.
+A Multithreaded Chat Application in Java is a computer program based on the network that enables several clients to communicate with one another in real time through Java sockets and multithreading. It is usually composed of a server that establishes and handles connections and several clients that they connect to the server to receive and send messages. The server executes on a single machine, and clients may be executed from the same or different machines in a local network or even across the internet.
 
 Central to this system is the use of multithreading. Multithreading permits the server to concurrently serve multiple clients by creating a new thread per client connection. If the server did not support multithreading, it could only serve a single client at a time, something which would be unrealistic for a live chat application.
 
